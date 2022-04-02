@@ -8,3 +8,5 @@
 
 ⚠️ Ex: The photos.zip file contains 5 images where you can upload it and the images will be displayed once extract.
 
+⚠️ The photo.zip file is attached here.
+
