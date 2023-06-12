@@ -1,5 +1,4 @@
 
-<h3>Digi-X Internship Assessment (Upload .zip file)</h3>
 
 1. Upload a zip file - containing 5 images (Cats, or Dogs, or even Pokemons)
 2. after uploading, Extract the zip to get the images
